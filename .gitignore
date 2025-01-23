@@ -1,7 +1,4 @@
 <<<<<<< HEAD
 node_modules
 *.log
-=======
-node_modules
-*.log
->>>>>>> cb85f9bae34f8b1ee0d59124bbfedf561df38b9e
+
