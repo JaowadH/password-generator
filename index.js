@@ -137,4 +137,4 @@ try {
   console.error('An error occurred while generating the password:', err.message);
   process.exit(1);
 }
->>>>>>> cb85f9bae34f8b1ee0d59124bbfedf561df38b9e
+
