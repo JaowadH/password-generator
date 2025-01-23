@@ -1,8 +1,10 @@
-#!/usr/bin/env node
+
 
 /**
  * index.js
  * A simple CLI to generate random passwords based on user-provided flags.
+ * Author: Jaowad Hossain
+ * Date: January, 2025
  */
 
 const args = process.argv.slice(2);
